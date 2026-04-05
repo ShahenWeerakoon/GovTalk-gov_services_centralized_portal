@@ -333,11 +333,6 @@ The system uses Django REST Framework token authentication.
 
 ## Future Improvements
 
-- Full UTF-8 multilingual content completion for Sinhala and Tamil
-- Admin-driven content editing for all service pages
-- Better search and filtering
-- Source-grounded AI assistant responses
 - Production deployment with Docker or CI/CD
-- Accessibility improvements and comprehensive testing
-- Richer analytics and support dashboards
+- Analytics and support dashboards
 
