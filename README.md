@@ -9,7 +9,6 @@
 ![Leaflet](https://img.shields.io/badge/Leaflet-Maps-1E1E1E?style=for-the-badge&logo=leaflet&logoColor=199900)
 ![i18next](https://img.shields.io/badge/i18next-Localization-2A2A2A?style=for-the-badge&logo=i18next&logoColor=26A69A)
 ![Axios](https://img.shields.io/badge/Axios-HTTP-3A3A3A?style=for-the-badge&logo=axios&logoColor=5A29E4)
-![License](https://img.shields.io/badge/License-Not%20specified-6B7280?style=for-the-badge)
 
 TalkGov is a full-stack web platform designed to make Sri Lankan government services easier to discover, understand, and prepare for. The system brings together service information, office locations, document checklists, contact support, and a guided assistant experience in one place.
 
@@ -29,7 +28,6 @@ The project is built with a React frontend and a Django REST backend, with Postg
 - [Authentication Flow](#authentication-flow)
 - [Current Highlights](#current-highlights)
 - [Future Improvements](#future-improvements)
-- [Author Notes](#author-notes)
 
 ## Project Overview
 
@@ -343,19 +341,3 @@ The system uses Django REST Framework token authentication.
 - Accessibility improvements and comprehensive testing
 - Richer analytics and support dashboards
 
-## Author Notes
-
-This project is a strong foundation for a citizen service platform, especially as a university, portfolio, or civic-tech showcase project. It demonstrates:
-
-- full-stack integration
-- practical public-service use case design
-- data modeling for real-world workflows
-- REST API development
-- interactive frontend experiences with mapping and authentication
-
-If you want, the next step I can do is:
-
-- create a shorter portfolio-style README version
-- add badges and deployment sections
-- write a proper `CONTRIBUTING.md`
-- create a `README-SETUP.md` with troubleshooting steps
